@@ -1,0 +1,6 @@
+org\jboss\fis2\demo\soap\MyTransformer.class
+org\jboss\fis2\demo\soap\Employee.class
+org\jboss\fis2\demo\soap\EmployeeWS.class
+org\jboss\fis2\demo\soap\EmployeeList.class
+org\jboss\fis2\demo\soap\Application.class
+org\jboss\fis2\demo\soap\Phone.class
